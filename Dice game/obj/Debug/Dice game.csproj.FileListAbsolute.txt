@@ -1,0 +1,10 @@
+C:\Documents and Settings\Ricardo\Configurações locais\Dados de aplicativos\Temporary Projects\Dice game\bin\Debug\Dice game.exe
+C:\Documents and Settings\Ricardo\Configurações locais\Dados de aplicativos\Temporary Projects\Dice game\bin\Debug\Dice game.pdb
+C:\Documents and Settings\Ricardo\Configurações locais\Dados de aplicativos\Temporary Projects\Dice game\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ricardo\Configurações locais\Dados de aplicativos\Temporary Projects\Dice game\obj\Debug\Dice game.exe
+C:\Documents and Settings\Ricardo\Configurações locais\Dados de aplicativos\Temporary Projects\Dice game\obj\Debug\Dice game.pdb
+C:\Documents and Settings\Ricardo\Meus documentos\Ricardo Azzi Silva\Jogos que criei\6º\Dice game\Dice game\obj\Debug\Dice game.exe
+C:\Documents and Settings\Ricardo\Meus documentos\Ricardo Azzi Silva\Jogos que criei\6º\Dice game\Dice game\obj\Debug\Dice game.pdb
+C:\Documents and Settings\Ricardo\Meus documentos\Ricardo Azzi Silva\Jogos que criei\6º\Dice game\Dice game\bin\Debug\Dice game.exe
+C:\Documents and Settings\Ricardo\Meus documentos\Ricardo Azzi Silva\Jogos que criei\6º\Dice game\Dice game\bin\Debug\Dice game.pdb
+C:\Documents and Settings\Ricardo\Meus documentos\Ricardo Azzi Silva\Jogos que criei\6º\Dice game\Dice game\obj\Debug\ResolveAssemblyReference.cache
